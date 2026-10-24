@@ -1,0 +1,6 @@
+{
+  "name": "CertStudio - X.509 & OpenSSL Certificate Studio",
+  "description": "Client-side X.509 certificate generator, OpenSSL CLI translator, PKCS#12/DER exporter, Local CA vault, and certificate decoder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
